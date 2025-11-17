@@ -1,4 +1,4 @@
-```markdown
+
 # Hi — I’m C-junior 👋
 Frontend developer building clean, accessible, and performant web interfaces.  
 Primary focus: Vue.js & modern JavaScript. Secondary: React.
@@ -48,6 +48,3 @@ Open to frontend roles, freelance/contract work, and meaningful collaborations. 
 
 I usually respond within a day — feel free to reach out.
 
----
-Minimal · Professional · Accessible
-```
