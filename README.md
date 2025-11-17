@@ -1,5 +1,10 @@
-
 # Hi — I’m C-junior 👋
+Vue.js-focused frontend dev | UX-minded | accessible-first
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=C-junior&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C-junior&layout=compact&theme=github_dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=C-junior)
+
 Frontend developer building clean, accessible, and performant web interfaces.  
 Primary focus: Vue.js & modern JavaScript. Secondary: React.
 
@@ -30,8 +35,8 @@ I build maintainable UI systems and delightful user experiences with an emphasis
 
 ## Selected projects
 - Cristovao Junior Portfolio — Personal portfolio (site & source). https://github.com/C-junior/cj-portfolio-dev
-- HydrocultivoAI — AI-powered chat agent that helps farmers optimize irrigation by retrieving climate data via API. https://github.com/C-junior/InovaUni
-- CodeNews (frontend) — Patient management system with real-time appointment scheduling and tracking. https://github.com/C-junior/codenews-frontend
+- HydrocultivoAI — AI-powered chat agent for irrigation optimization via climate data APIs. https://github.com/C-junior/InovaUni
+- CodeNews (frontend) — Patient management frontend with real-time scheduling and tracking. https://github.com/C-junior/codenews-frontend
 
 ---
 
@@ -48,3 +53,5 @@ Open to frontend roles, freelance/contract work, and meaningful collaborations. 
 
 I usually respond within a day — feel free to reach out.
 
+---
+Minimal · Professional · Accessible
