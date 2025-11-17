@@ -1,4 +1,4 @@
-```markdown
+
 # Hi — I’m C-junior 👋
 Vue.js-focused frontend dev | UX-minded | accessible-first
 
@@ -76,5 +76,3 @@ Connect on social:
 I usually respond within a day — feel free to reach out.
 
 ---
-Minimal · Professional · Accessible
-```
