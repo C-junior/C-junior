@@ -1,59 +1,3 @@
-# Hi — I’m C-junior 👋
-Vue.js-focused frontend dev | UX-minded | accessible-first
-
-<<<<<<< HEAD
-=======
-<!-- Badges: stats, top langs, visitor count (dark theme) -->
->>>>>>> 57fd223 (update readme)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=C-junior&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C-junior&layout=compact&theme=github_dark)
-![Visitor Count](https://komarev.com/ghpvc/?username=C-junior)
-
-<<<<<<< HEAD
-=======
-<!-- Additional badges (update placeholders as needed) -->
-[![Actions Status](https://img.shields.io/github/actions/workflow/status/C-junior/C-junior/ci.yml?branch=main&style=for-the-badge)](https://github.com/C-junior/C-junior/actions)
-[![npm version](https://img.shields.io/npm/v/your-package-name?style=for-the-badge)](https://www.npmjs.com/package/your-package-name)
-[![Repo size](https://img.shields.io/github/repo-size/C-junior/C-junior?style=for-the-badge)](https://github.com/C-junior/C-junior)
-[![License](https://img.shields.io/github/license/C-junior/C-junior?style=for-the-badge)](https://github.com/C-junior/C-junior/blob/main/LICENSE)
-
->>>>>>> 57fd223 (update readme)
-Frontend developer building clean, accessible, and performant web interfaces.  
-Primary focus: Vue.js & modern JavaScript. Secondary: React.
-
-I build maintainable UI systems and delightful user experiences with an emphasis on accessibility, performance, and developer ergonomics.
-
----
-
-## Tech & tools
-- Languages: JavaScript (ESNext), TypeScript
-- Primary framework: Vue.js, Nuxt
-- Secondary: React, Next.js (when appropriate)
-- Bundlers / Tooling: Vite, Webpack, ESLint, Prettier
-- Styling: Tailwind CSS, CSS3, SASS, CSS Modules
-- State & Data: Pinia, Vuex, SWR, React Query
-- Testing: Jest, Vitest, Cypress / Playwright (E2E), Testing Library
-- Component dev: Storybook
-- Quality: Lighthouse, axe, web vitals
-
----
-
-## What I make
-- Reusable, accessible component libraries & design systems
-- Fast, SEO-friendly static and dynamic sites (Nuxt / Next)
-- Interactive SPAs with maintainable architecture and clear separation of concerns
-- Well-tested UI (unit, integration, and E2E)
-
----
-
-## Selected projects
-- Cristovao Junior Portfolio — Personal portfolio (site & source). https://github.com/C-junior/cj-portfolio-dev
-- HydrocultivoAI — AI-powered chat agent for irrigation optimization via climate data APIs. https://github.com/C-junior/InovaUni
-- CodeNews (frontend) — Patient management frontend with real-time scheduling and tracking. https://github.com/C-junior/codenews-frontend
-<<<<<<< HEAD
-=======
-
----
 ```markdown
 # Hi — I’m C-junior 👋
 Vue.js-focused frontend dev | UX-minded | accessible-first
@@ -70,7 +14,7 @@ Vue.js-focused frontend dev | UX-minded | accessible-first
 [![License](https://img.shields.io/github/license/C-junior/C-junior?style=for-the-badge)](https://github.com/C-junior/C-junior/blob/main/LICENSE)
 
 Frontend developer building clean, accessible, and performant web interfaces.  
-Primary focus: Vue.js & modern JavaScript. Secondary: React.
+Focus: Vue.js & modern JavaScript.  React.
 
 I build maintainable UI systems and delightful user experiences with an emphasis on accessibility, performance, and developer ergonomics.
 
